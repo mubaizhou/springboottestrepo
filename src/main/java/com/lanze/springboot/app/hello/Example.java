@@ -1,4 +1,4 @@
-package com.lanze.springboot.hello;
+package com.lanze.springboot.app.hello;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.EnableAutoConfiguration;
